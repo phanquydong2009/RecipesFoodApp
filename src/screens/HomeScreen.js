@@ -70,6 +70,7 @@ const HomeScreen = () => {
             justifyContent: 'space-between',
             alignItems: 'center',
             padding: wp(4),
+            marginTop :15
           }}>
           <Image
             source={require('../assets/images/avatar.jpg')}
